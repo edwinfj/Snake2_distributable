@@ -1,5 +1,5 @@
 # Snake v2 distributable
-### An undergraduate course project inspired by the classical game "Snake".
+##### An undergraduate course project inspired by the classical game "Snake".
 
 What the hack is this repo?
 
