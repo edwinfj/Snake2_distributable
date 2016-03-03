@@ -1,7 +1,7 @@
 # Snake v2 distributable
-### An undergraduate course project inspired by the classical game "Snake".
+### A hobbyist project inspired by the classical game "Snake"
 
-Happened to find it in my old computer before I partitioned the disk and installed linux. Thought it might be a better idea to share it with the world than let rot in my computer.
+It was done during my undergraduate years. I recently happened to find it in my old computer before I partitioned the disk and installed linux. Thought it might be a better idea to share it with the world than let rot in my computer.
 
 This project was documented and commented in Chinese. Some files already have English versions, some are yet to be translated.
 
