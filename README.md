@@ -7,7 +7,7 @@ This project was documented and commented in Chinese. Some files already have En
 
 To know what "Snake v2" is and how to play, please refer to *"Game_Manual.html"*.
 
-The graphic rendering of this project is enabled by GDI+ (*yes I know it's outdated and inefficient)*.
+The graphic rendering of this project is enabled by GDI+ (*yes I know it's outdated and inefficient)*, so the program is run on windows platform only.
 
 This project is distributed under BSD License (the 4 clauses one).
 
