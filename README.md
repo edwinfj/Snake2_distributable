@@ -1,16 +1,12 @@
-# Snake v2 distributable
-### A hobbyist project inspired by the classical game "Snake"
+# Snake v2
+_**-- undergraduate project written in 2009, inspired by the classical game "Greedy Snake"**_
 
-It was done during my undergraduate years. I recently happened to find it in my old computer before I partitioned the disk and installed linux. Thought it might be a better idea to share it with the world than let rot in my computer.
+[bin folder](./bin) contains .exe runnable (Windows only) and all dependencies. Tested on Windows XP/Vista/7 and all passed.
 
-This project was documented and commented in Chinese. Some files already have English versions, some are yet to be translated.
+[*Game_Manual.html*](./Game_Manual.html)
 
-To know what "Snake v2" is and how to play, please refer to *"Game_Manual.html"*.
+Source code are placed in [source folder](./source). GDI+ is the graphics framework.
 
-The graphic rendering of this project is enabled by GDI+ (*yes I know it's outdated and inefficient)*, so the program is run on windows platform only.
+v1 is written in C and is based on Borland Turbo C 2.0 graphics library.
 
-This project is distributed under BSD License (the 4 clauses one).
-
-Future improvement and modification can be expected.
-
-**_TO THOSE DAYS WHEN WE WERE STILL YONG AND DREAMING._**
+[License - BSD 4 clauses](./License)
