@@ -3,7 +3,7 @@ _**-- undergraduate project written in 2009, inspired by the classical game "Gre
 
 [bin folder](./bin) contains .exe runnable (Windows only) and all dependencies. Tested on Windows XP/Vista/7 and all passed.
 
-[*Game_Manual.html*](./Game_Manual.html)
+[Game_Manual.html](./Game_Manual.html)
 
 Source code are placed in [source folder](./source). GDI+ is the graphics framework.
 
