@@ -7,6 +7,6 @@ _**-- undergraduate project written in 2009, inspired by the classical game "Gre
 
 Source code are placed in [source folder](./source). GDI+ is the graphics framework.
 
-v1 is written in C and is based on Borland Turbo C 2.0 graphics library.
+v1 is written in C and is based on Borland Turbo C 2.0 graphics library (not uploaded since I lost the source code).
 
 [License - BSD 4 clauses](./License)
