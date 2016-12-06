@@ -1,5 +1,5 @@
 # Snake War v2
-_**-- undergraduate project written in 2009, inspired by the classical game "Greedy Snake"**_
+_**-- undergraduate project written in 2009, A game inspired by two classic NES games “greedy snake” and “tank war”**_
 
 [bin folder](./bin) contains .exe runnable (Windows only) and all dependencies. Tested on Windows XP/Vista/7 and all passed.
 
